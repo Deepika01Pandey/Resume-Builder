@@ -107,31 +107,35 @@ Type **npm start** in terminal to start the application after installing the dep
 
 **Template Selection** - From this component user can choose their favourite template.
 
-![template selection](https://github.com/nikhil-jangde/Resume-Builder-Almabetter/assets/112394456/ebc3023b-b631-4d9c-bbac-97c3ca1aff2c)
+![template selection](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/5ef8b7f2-6c3c-407c-9d7f-3bebae1a5105)
 
 **Details Filling Page** - From this component user can add their details of personal info, education, experience and skills.
+![Detailfilling-2024-01-14-13_39_49](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/9173e2ce-9921-44bd-8aa4-f27f77ff9645)
 
-![perosnal](https://github.com/nikhil-jangde/Resume-Builder-Almabetter/assets/112394456/b4142cb3-d785-40ce-841e-396f200c8764)
+![Education-2024-01-14-13_16_52](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/e3bcfdb4-feff-4d33-a483-b00fa05add53)
 
-**Preview Page** - The user will see their resume in its final form in this component, and once everything is finished, they can use the save button to downlaod it in PDF format.
 
-![preview](https://github.com/nikhil-jangde/Resume-Builder-Almabetter/assets/112394456/7c69597f-c7ce-46bc-b5b1-5803a954012c)
 
+![Work Experience-2024-01-14-13_22_34](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/b9d81bab-0437-4667-a84b-9aeb642e05fd)
+![Key Skill-2024-01-14-13_30_17](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/987f4428-0945-4370-8211-1c774b5781fb)
 **My Resume Page** - This component shows the resume that user saved.
 
-![myresume page](https://github.com/nikhil-jangde/Resume-Builder-Almabetter/assets/112394456/b68d563d-87a6-41a4-ba02-63c94b971026)
+![myresume-2024-01-14-13_41_06](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/48225921-987c-417b-a86c-0dad650d9be3)
 
 **Abouts Us** 
+![about-us-2024-01-14-13_46_34](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/7ca53ab4-e1d4-4bbb-adc8-14b196c176e8)
 
-![About Us](https://github.com/nikhil-jangde/Resume-Builder-Almabetter/assets/112394456/ca33b437-4bda-49f7-b899-ca5a3722f8e4)
 
-## Links for the project
+
+##Links for the project
 
 Deployment Link : https://resume-builder-almabetter-six.vercel.app/
 
 Youtube Link : [https://youtu.be/uTCAhgiRXWU](https://youtu.be/-dqTi9rST7s)
 
-## Team Memebers
 
-- Parth Ojha
-- Nikhil Jangde
+## Regarded
+
+
+- Deepika pandey
+
