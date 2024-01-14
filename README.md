@@ -27,6 +27,7 @@ Type **npm start** in terminal to start the application after installing the dep
 ## Application Folder Structure
 
 ```
+
 ├── public/
 │	├── index.html
 │    	├──images/
@@ -103,7 +104,8 @@ Type **npm start** in terminal to start the application after installing the dep
 └──tailwind.config.js
 ```
 
-## Components and Pages of Application:
+## Components and Pages of Application: get start--
+![get start-3000-2024-01-14-14_09_51](https://github.com/Deepika01Pandey/Resume-Builder/assets/156078770/a1a0a94e-af5d-43bd-af6b-2dfad40e864f)
 
 **Template Selection** - From this component user can choose their favourite template.
 
