@@ -1,0 +1,14 @@
+.active{color:rgb(147, 228, 246);
+}
+
+body{width: 100%;
+height: 100%;}
+#root {
+    background-image: url(/src/Components/images/wallpaper.jpg);
+    
+    
+
+}
+.mt-2{
+    margin:0 !important;
+}
